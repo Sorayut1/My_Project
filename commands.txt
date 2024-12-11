@@ -1,0 +1,14 @@
+
+//คำสั่งติดตั้ง tailwind css
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+
+npm install antd
+
+npm i react-router-dom
+
+//กราฟ
+npm install recharts
+
+//คิวอาร์โค้ด
+npm install qrcode.react@latest
